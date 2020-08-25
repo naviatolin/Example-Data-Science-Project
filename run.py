@@ -17,7 +17,7 @@ print("How read_csv works:")
 print(df)
 
 # setting an intial value for a variable 'summation'
-summation = 0
+summation = 1
 
 # setting up an empty array called "highs"
 highs = []
