@@ -1,0 +1,13 @@
+avg_high, avg_low, month
+57,37,January
+61,41,February
+69,49,March
+77,56,April
+84,65,May
+92,73,June
+96,77,July
+96,77,August
+89,69,September
+79,58,October
+67,48,November
+58,39,December
